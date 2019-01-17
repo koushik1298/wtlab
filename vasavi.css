@@ -1,0 +1,45 @@
+
+.footer{
+    background-color:black;
+    text-align:center;
+    color:white;
+    font-size:27px
+}
+.head1{
+    text-align:center;
+    background-color: black;
+    color:white;
+    font-size:30px
+}
+.head2{
+    text-align: center;
+    padding:10px;
+    border:2px solid black
+}
+.head3{
+  
+    float: left;  
+    padding:10px;
+    width:20%;
+}
+.head4{
+    border-left:2px solid black;
+     border-right:2px solid black;
+    float:left;
+    text-align: center;
+    height: auto
+    padding:10px;
+    width:50%;
+    
+}
+.head5{
+    
+   float:left;
+    padding;10px;
+    width:20%
+}
+.row{
+    content: "";
+  display: table;
+  clear: both;
+}

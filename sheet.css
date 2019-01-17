@@ -1,0 +1,23 @@
+*{
+    background-color:orange;
+    line-height:2.0en
+}
+.head1{
+    color:red;
+    font-size:33px
+}
+.head2{
+    font-size:33px
+}
+.para{
+    font-size:20px;
+    color:green
+}
+.span1{
+    text-decoration: underline
+}
+.head3{
+        font-display:block;
+        color:red;
+        font-size:33px
+}
